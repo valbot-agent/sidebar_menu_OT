@@ -7,7 +7,7 @@
 }
 body{
     min-height: 100vh;
-    background: white;
+    background: #c3c3c3;
 }
 .navigation{
     position: fixed;
